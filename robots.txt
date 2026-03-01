@@ -1,0 +1,7 @@
+# BlackRoad OS — robots.txt
+# https://blackroad.io/robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad.io/sitemap.xml
