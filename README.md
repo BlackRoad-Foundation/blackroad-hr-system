@@ -1,3 +1,11 @@
+# blackroad-hr-system
+
+> HR and employee management platform
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
 # BlackRoad HR System
 
 > Human Resources and Employee Management Platform — SQLite-backed, zero-dependency Python.
